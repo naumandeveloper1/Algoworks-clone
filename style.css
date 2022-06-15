@@ -1,0 +1,110 @@
+.container2 {
+  width: 100%;
+  height: 100vh;
+}
+
+.ms-10 {
+  margin-left: 190px;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+/* .nav-link .active {
+            color: black;
+        } */
+.navbar {
+  background: transparent !important;
+  transition: all 0.5s ease-in-out;
+}
+
+.container1 {
+  width: 100%;
+  height: 100vh;
+  background: url("./assert/bgorignal.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.navbarcontainer {
+  background: #000 !important;
+}
+.btn-hover:focus,
+.btn-hover:hover {
+  background: blue;
+  color: white !important;
+  border: none !important;
+  cursor: pointer;
+}
+
+.blue {
+  color: #050748;
+}
+
+.pt {
+  padding-top: 220px;
+}
+
+.bbl {
+  height: 550px;
+  border-bottom-left-radius: 80px;
+  box-shadow: 5px 5px 5px rgb(0 0 0 / 70%);
+}
+.cardz {
+  height: auto;
+  border-bottom-right-radius: 3rem;
+  border-top-left-radius: 3rem;
+  box-shadow: 0 0 0.4rem 0.1rem #0003;
+  padding: 2.5rem;
+  margin-left: 10px;
+}
+.mt-services {
+  margin-top: 400px;
+}
+/* Creative Work Section */
+.bg-creativework {
+  background: #344767 !important;
+}
+.heading-font {
+  font-weight: bolder;
+  font-size: 4rem;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.img-div {
+  height: 70vh;
+  width: 100%;
+  position: relative;
+}
+.div {
+  position: absolute;
+  background: white;
+  height: 90px;
+  bottom: 0px;
+  left: 8px;
+  border-radius: 50px 7px 7px;
+  width: 95%;
+  top: 484px;
+}
+.mt-5 {
+  margin-top: 5rem !important;
+}
+.creativework-height {
+  height: 1890px;
+}
+/* .pb {
+  padding-bottom: 20px;
+} */
+/* Oue Client Section */
+.box {
+  width: 200px;
+  height: 150px;
+}
+.box:hover {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
+}
+.box img {
+  width: 100%;
+  height: 100%;
+}
